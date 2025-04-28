@@ -30,9 +30,9 @@ Além disso, o projeto integra **Firebase Authentication** para permitir login e
 
 ### 🍽️ Tela Principal - Lista de Receitas
 
-![Lista de Receitas - Parte 1](assets/images/receitas-preview-1.jpg)
-![Lista de Receitas - Parte 2](assets/images/receitas-preview-2.jpg)
-![Lista de Receitas - Parte 3](assets/images/receitas-preview-3.jpg)
+![Lista de Receitas - Parte 1](assets/images/receitas-preview1.jpg)
+![Lista de Receitas - Parte 2](assets/images/receitas-preview2.jpg)
+![Lista de Receitas - Parte 3](assets/images/receitas-preview3.jpg)
 
 ### 🍲 Tela de Detalhes da Receita
 ![Tela de Detalhes da Receita](assets/images/detalhes-preview.jpg)
