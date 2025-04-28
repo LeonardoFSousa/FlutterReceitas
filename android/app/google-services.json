@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "33582429979",
+    "project_id": "flutterreceitas-d297e",
+    "storage_bucket": "flutterreceitas-d297e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:33582429979:android:9460b5826eba97bed8c5be",
+        "android_client_info": {
+          "package_name": "com.example.flutter_receitas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJhbQ-lvFzXVALzz5xvb5K1c38cVKb8vQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
