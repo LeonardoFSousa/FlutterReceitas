@@ -108,9 +108,3 @@ Além disso, o projeto integra **Firebase Authentication** para permitir login e
 ## 📢 Observações Importantes
 - Este projeto está configurado para **rodar em dispositivos Android/iOS**.
 - O suporte Web (Flutter Web) ainda necessita ajustes por limitações atuais do FlutLab e compatibilidade do Firebase Web.
-
----
-
-# ✅ Finalizado!
-
----
